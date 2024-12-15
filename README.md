@@ -1,6 +1,6 @@
-### Hola! 👋
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h1 align="center"> Hi There! 👋 </h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&lines=Welcome+to+my+GitHub+page!;Software+developer;Freelancer;"/>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
