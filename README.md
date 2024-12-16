@@ -15,7 +15,7 @@
 <!-- Description -->
 ```diff
 + 📝 Studying Web Application Development.
-🎓 I'm a Cross-platform Application Development.
+🎓 I'm a Cross-platform Application Developer.
 💻 I also love to make websites.
 🚀 I'm always eager to learn and take on new challenges.
 🌟 Currently looking for: an Intern or a new job opportunity.
